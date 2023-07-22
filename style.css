@@ -116,7 +116,9 @@ body{
   display: inline-block;
   /* transition: background-color 0.6s ease; */
 }
-
+#wh{
+  width: 25%;
+}
 .active, .dot:hover {
   background-color: #717171;
 }
@@ -284,7 +286,7 @@ background-size: cover;
  height: 35%;
  }
  #road{
-  width: 23rem;
+  width: 17rem;
   height: 14rem;
  }
  .youtube-player{
@@ -298,5 +300,17 @@ background-size: cover;
   padding-top: 0;
   margin-top: -22%;
  }
-
+ #btnk{
+  font-size: medium;
+  margin-bottom: 7%;
+ }
+ .sp{
+  position: relative;
+  left: -1rem;
+  font-size: small;
+  width:100%;
+ }
+ #wh{
+  width: 15rem;
+ }
 }
